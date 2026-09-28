@@ -1,0 +1,6 @@
+{
+  "name": "সৌখিন বাজার - Shoukhin Bazar",
+  "description": "একটি সম্পূর্ণ প্রিমিয়াম, আধুনিক ও নির্ভরযোগ্য বাংলা ই-কমার্স প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
